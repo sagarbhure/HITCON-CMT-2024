@@ -4,7 +4,7 @@
 Welcome to the HITCON-2024 Workshop! This repository contains all the necessary information and resources for the lab exercises.
 
 ## Steps to Install VM for Lab Exercises
-- Download the VM: https://drive.google.com/uc?id=1yyWUYqrrTWZJdyUxo65_nFPTx3JaqzTI 
+- Download the VM: https://drive.google.com/uc?id=1yyWUYqrrTWZJdyUxo65_nFPTx3JaqzTI   |  https://drive.google.com/file/d/1MV76lHasnLKdYK-fBBB_NEF_mYj87FZR/view
 - Import the downloaded VM into VirtualBox (recommended) or VMware.
 - VM Password: `ml`
 - The VM has been tested and works with: VirtualBox: Version 6.1, VMware: Version 15.5.0
