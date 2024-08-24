@@ -20,11 +20,13 @@ Ensure you have a method to share files between the host and the guest machines.
 ## Getting Started
 To get started with the lab exercises, follow the steps outlined in the Lab Guide and refer to the Attack Demos for detailed walkthroughs. The Workshop Presentation will be available soon and will provide additional context and information.
 
+## Ask Me Anything here:
+https://app.sli.do/event/qqzTxU7dLq8Ere51GGfk3x
+
 ## Support
 If you encounter any issues or have any questions, please reach out to the [Sagar Bhure](mailto:sagar.bhure@owasp.org). 
 
 We look forward to your participation in HITCON-2024!
 
-## Ask Me Anything here:
-https://app.sli.do/event/qqzTxU7dLq8Ere51GGfk3x
+
 
